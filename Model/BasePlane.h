@@ -23,6 +23,8 @@ public:
      * breakdown: 被击落
      *
      */
+    void setXPosition(value);
+    float getXPosition();
     void setDefense(value);
     void getDefense(value);
     void setSpeed(value);
